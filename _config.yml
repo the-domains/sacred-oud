@@ -1,0 +1,14 @@
+layout_spectrum: 0.9531915
+color:
+  saturation: 0.7446808
+  lightness: 0.8106383
+  brandStrength: 0.732079
+  brandColors:
+    - '#FFFFFF'
+    - '#0A0000'
+    - '#B4994B'
+    - '#FFE076'
+    - '#6E5C30'
+  rhythmicContrast: 0.2255319
+typography_spectrum: 0.7978724
+name: Sacred Oud
